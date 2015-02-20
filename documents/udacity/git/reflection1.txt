@@ -1,0 +1,12 @@
+It certainly was nice to not have to sift through all the lines of code for the whole program
+
+command prompt function FC *file name* space *file name* is nice to compare two files.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the the long term?
+
+help you find mistakes, can help you go back and try a different code path if part of your program doesn't work.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+     it nice to break the commits into areas that make logical send to the author and are of a controlled reasonable frequency.  However, automatic commits are nice what if you computer crashes and you have not saved your work for a couple of hours and you lose it all.
+
+
